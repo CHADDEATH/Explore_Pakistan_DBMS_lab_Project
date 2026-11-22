@@ -1,0 +1,24 @@
+=====================================================
+EXPLORE PAKISTAN - DATASET ENTRY COUNT SUMMARY
+=====================================================
+cities.xlsx                  :    5 entries
+hotels.xlsx                  :   40 entries
+room_types.xlsx              :   80 entries
+landmarks.xlsx               :   50 entries
+street_foods.xlsx            :   50 entries
+transport_routes.xlsx        :   40 entries
+private_transport.xlsx       :   25 entries
+tour_guides.xlsx             :   25 entries
+activities.xlsx              :   30 entries
+guide_activities.xlsx        :   50 entries
+reviews.xlsx                 :   40 entries
+bookings.xlsx                :   20 entries
+seasons.xlsx                 :   20 entries
+emergency_contacts.xlsx      :   25 entries
+currencies.xlsx              :    8 entries
+-----------------------------------------------------
+TOTAL VERIFIED DATA ENTRIES  :  508 entries
+=====================================================
+Minimum required threshold   :  400 entries
+Status                       :  PASSED (Exceeds requirement by 108 entries)
+=====================================================
